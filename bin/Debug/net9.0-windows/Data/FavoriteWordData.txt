@@ -1,0 +1,3 @@
+apple
+example
+friend

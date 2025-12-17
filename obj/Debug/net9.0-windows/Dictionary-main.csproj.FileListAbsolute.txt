@@ -1,0 +1,99 @@
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.exe
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.deps.json
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.runtimeconfig.json
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.dll
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.pdb
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfo.cs
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.dll
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\refint\Dictionary-main.dll
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.pdb
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.genruntimeconfig.cache
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\ref\Dictionary-main.dll
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\.DS_Store
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FavoriteWordData.txt
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FileHelper.cs
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\MeaningWordData.txt
+c:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\SynAntWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.sourcelink.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.sourcelink.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\refint\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\.DS_Store
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FavoriteWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FileHelper.cs
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\MeaningWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\SynAntWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.exe
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.deps.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\ref\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\.DS_Store
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FavoriteWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FileHelper.cs
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\MeaningWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\SynAntWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.deps.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.sourcelink.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\refint\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\ref\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\.DS_Store
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FavoriteWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FileHelper.cs
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\MeaningWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Data\SynAntWordData.txt
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.exe
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.deps.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.sourcelink.json
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\refint\Dictionary-main.dll
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Dictionary-s-main fix - Copy (2)\Dictionary-s-main\Dictionary-s-main\obj\Debug\net9.0-windows\ref\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Data\.DS_Store
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FavoriteWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Data\FileHelper.cs
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Data\MeaningWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Data\SynAntWordData.txt
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.exe
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.deps.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\bin\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.sourcelink.json
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\refint\Dictionary-main.dll
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.pdb
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\Dictionary-main.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Dictionary-s-main\obj\Debug\net9.0-windows\ref\Dictionary-main.dll

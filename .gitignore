@@ -1,0 +1,15 @@
+# Build folders
+bin/
+obj/
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+

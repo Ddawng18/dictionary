@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch (Dictionary-main)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build Dictionary-main",
+      "program": "${workspaceFolder}/Dictionary-s-main/Dictionary-s-main/bin/Debug/net9.0-windows/Dictionary-main.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Dictionary-s-main/Dictionary-s-main",
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "justMyCode": true
+    }
+  ]
+}
