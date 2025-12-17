@@ -15,10 +15,9 @@ namespace Dictionary.Services
 
         public int Count => keys.Count;
 
-        // Expose keys for compatibility with Dictionary<TKey,TValue>.Keys
         public IEnumerable<TKey> Keys => keys.AsReadOnly();
 
-        // TryGetValue for compatibility
+
         public bool TryGetValue(TKey key, out TValue value)
         {
             int index = keys.IndexOf(key);
