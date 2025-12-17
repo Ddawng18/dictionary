@@ -34,7 +34,7 @@ Dưới đây là 6 hàm cốt lõi, đại diện cho khả năng quản lý, t
 | `AddToFile(string path, ...)` | `DictionaryService` | Thêm từ mới vào cả tệp và bộ nhớ. | **Thêm/Lưu trữ** từ điển cơ bản. |
 | `SortFile(string path)` | `DictionaryService` | Sắp xếp các từ khóa trong tệp và tải lại vào bộ nhớ. | **Quản lý dữ liệu** tệp theo thứ tự chữ cái. |
 | `AddSyn(string path, string word, string synonym)` | `SynAntDictionary` | Thêm từ đồng nghĩa mới, cập nhật bộ nhớ và tệp. | **Mở rộng từ vựng** (thêm từ đồng nghĩa). |
-| `AddFavorite(string path, string word)` | `DictionaryMyFavorite` | Thêm từ vào danh sách Yêu thích (lưu trực tiếp vào tệp). | **Cá nhân hóa** (quản lý từ yêu thích). |
+| `AddAnt(string path, string word, string antonym)` | `SynAntDictionary` | Thêm từ trái nghĩa mới, cập nhật bộ nhớ và tệp. | **Mở rộng từ vựng** (thêm từ trái nghĩa). |
 
 ---
 
